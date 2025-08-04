@@ -9,7 +9,7 @@ int main(){
 
   }else{
     cout << "This is an ODD number.."<< endl;
-  };
+  }
 
   return 0;
 }
